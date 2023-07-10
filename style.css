@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.header {
+  width: 500px;
+  height: 250px;
+  background-color: red;
+}
+
+.main {
+  width: 500px;
+  height: 700px;
+  background-color: blue;
+}
+
+.footer {
+  width: 500px;
+  height: 250px;
+  background-color: black;
+}
